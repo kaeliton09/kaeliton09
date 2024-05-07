@@ -1,8 +1,8 @@
-<h1 align="left">Olá 😁</h1>
+<h1 align="left">Olá, seja bem-vindo ao meu mundo de estudos!</h1>
 
 ###
 
-<p align="left">- 🐠 Me chamo Kaeliton.<br>- 🐡 Sou estudante de Ciência da Computação (PUC-GO)<br>- 🐟 Estou atualmente no 2º periodo.</p>
+<p align="left">-Me chamo Kaeliton.<br>-Sou estudante de Ciência da Computação (PUC-GO)<br>-Estou atualmente no 2º periodo.</p>
 
 ###
 
