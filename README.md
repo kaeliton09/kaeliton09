@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Kaeliton.<br>Sou estudante de Ciência da Computação (PUC-GO)<br>Estou atualmente no 2º periodo.</p>
+<p align="left">Me chamo Kaeliton.<br>Sou estudante de Ciência da Computação (PUC-GO)<br>Estou atualmente no 3º periodo.</p>
 
 ###
 
